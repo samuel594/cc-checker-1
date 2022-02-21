@@ -2,7 +2,7 @@
 
 ---
 
-<p align=center>Simple credit card checker made using <a href="https://github.com/br0keh/ccc.js/">ccc.js - Credit Card Check for JS</a></p>
+<p align=center>Simple credit card checker made uing <a href="https://github.com/br0keh/ccc.js/">ccc.js - Credit Card Check for JS</a></p>
 
 ---
 
